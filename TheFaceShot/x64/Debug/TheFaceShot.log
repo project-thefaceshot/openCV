@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\dev\thefaceshot\thefaceshot\thefaceshot\main.cpp(115): warning C4101: 'angle' :참조되지 않은 지역 변수입니다.
+  TheFaceShot.vcxproj -> C:\dev\TheFaceShot\TheFaceShot\x64\Debug\TheFaceShot.exe
